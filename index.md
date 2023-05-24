@@ -6,10 +6,21 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Installation
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+The Slim Framework is a popular PHP micro-framework for building web applications. To set up this Slim Framework skeleton project, you will need to have PHP and Composer installed on your system.
+<b>Step 1:</b>Create a new project:
+<p>Open a terminal and navigate to the directory where you want to create your new Slim Framework project.</p>
+```yaml
+composer create-project odan/slim4-skeleton [my-app-name]
+```
+
+<p>Replace 
+```yaml
+[my-app-name]
+```
+with the desired name for your project. This will create a new directory with the specified name and install the required dependencies.</p>
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
